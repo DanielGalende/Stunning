@@ -18,6 +18,6 @@ Proyecto modificado por Daniel Galende Colino
 [Error al intentar la subida al remoto](https://miro.com/welcomeonboard/NGtCRWRkZmR3VXhOb2pOMmNtc0EwdENLT0w4MlVXVFJSeFhzTTFsQUZHbFFqRTZFenZzZ05NOWRkUE40ZTBad3wzNDU4NzY0NTQzNzMxOTYyOTI4fDI=?share_link_id=905517727503)
 
 
-[Comando para forzar la subida](https://i.imgur.com/ibHCr9u.png)
+[Comando para forzar la subida](https://i.imgur.com/Muu9p11.png)
 
 [Diagrama del estado actual del repositorio local y mi repositorio remoto tras la subida forzada](https://i.imgur.com/02aYRuo.png)
